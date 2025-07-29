@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "value": "teste",
+      "count": 6
+    },
+    {
+      "value": "test",
+      "count": 3
+    },
+    {
+      "value": "3",
+      "count": 5
+    },
+    {
+      "value": "4",
+      "count": 1
+    },
+    {
+      "value": "asdf",
+      "count": 3
+    },
+    {
+      "value": "a",
+      "count": 2
+    },
+    {
+      "value": "t",
+      "count": 2
+    },
+    {
+      "value": "d",
+      "count": 1
+    }
+  ],
+  "lastModified": "2025-07-29T01:51:25.622Z"
+}
